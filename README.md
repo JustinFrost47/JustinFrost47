@@ -17,7 +17,8 @@
 
 #  	💻 Top Contributed Repositories:
 
-<p>&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=justinfrost47&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&include_all_commits=true&count_private=true" alt="justinfrost47" /></p>
+<p>&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=justinfrost47&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&include_all_commits=true&count_private=true&hide_border=true" alt="justinfrost47" /></p>
+
 
 # 📊 GitHub Stats:
 
