@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rino</h1>
-<h3 align="center">A FullStack Developer with specialization in applied AI</h3>
+<h3 align="center">I am a FullStack Developer who can get the job done</h3>
 
 
 
