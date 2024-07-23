@@ -24,7 +24,7 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sridhar-Fullstack-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RinoJonathan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rinojonathan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rinojonathan" /></a></p><br><br>
