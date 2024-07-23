@@ -31,7 +31,13 @@
 <p><a href="https://www.buymeacoffee.com/rinojonathan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rinojonathan" /></a></p><br><br>
 
 
+#
+#
+
 ### Food For Thought
 
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="justinfrost47" /></p>
+
+#
+#
 
