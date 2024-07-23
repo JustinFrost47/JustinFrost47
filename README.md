@@ -21,14 +21,14 @@
 
 <h3 align="left">Top contributed Repositories:</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=justinfrost47&limit=5&theme=highcontrast&combine_all_yearly_contributions=true&include_all_commits=true&count_private=true)
+<p>&nbsp;<img align="center" src="https://github-contributor-stats.vercel.app/api?username=justinfrost47&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&include_all_commits=true&count_private=true" alt="justinfrost47" /></p>
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinfrost47&show_icons=true&locale=en&theme=highcontrast&hideborder=true&include_all_commits=true&count_private=true" alt="justinfrost47" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinfrost47&show_icons=true&locale=en&theme=tokyonight&hideborder=true&include_all_commits=true&count_private=true" alt="justinfrost47" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinfrost47&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="justinfrost47" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinfrost47&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="justinfrost47" /></p>
 
 
 
